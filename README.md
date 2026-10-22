@@ -8,7 +8,7 @@ This pilot demonstrates a full data‑curation workflow using the **Zillow Obser
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/prescottcassy/Zillow-Rent-Data-Quality-Audit>
    cd <repo-name>
    ```
 
